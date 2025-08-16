@@ -1,3 +1,3 @@
-module github.com/stefanrodrigues/stamp-reflector
+module github.com/stefanrodrigues/stamp_reflector
 
 go 1.26
